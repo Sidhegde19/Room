@@ -39,3 +39,11 @@ I chose this project because there are a good amount of features that can implem
 ![fun cat gif](https://media.newyorker.com/photos/605b53099424012f031862a6/1:1/w_563,h_563,c_limit/cat_gif1.gif)
 
 Because it is really fun when people accidently apply this to their video streams especially in official environments (Well, I also sympathize with them)
+
+## Reference
+
+I followed these two tutorials:
+1. [Clever Programmer Team's Zoom Clone for beginners](https://www.youtube.com/watch?v=ZVznzY7EjuY&t=7634s)
+2. [Web Dev Simplified's Implementation](https://www.youtube.com/watch?v=DvlyzDZDEq4&t=685s)
+
+Huge Thanks to them because I honestly couldn't make it myself.
